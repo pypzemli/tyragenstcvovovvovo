@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+}
+
+header img {
+
+    width:150px;
+    height:150px;
+    margin:3px 0px 0px 3px;
+
+}
+
+header {
+
+    background-color:darkblue;
+
+}
+
+h1 {
+
+    text-align:center;
+
+}
+
+.paint {
+
+    text-align:center;    
+
+}
+
+
+.spisok {
+
+    font-size:20px;
+    text-align:left;
+
+}
+
+ul {
+
+/*    list-style:url("https://i.ytimg.com/vi/tVS3jyLUugc/hqdefault.jpg");*/    
+    margin-left:200px;
+
+}
+
+.nigga {
+
+    text-align:center;
+    border:3px solid lightblue;
+    font-size:32px;
+    margin-bottom:10px;
+}
+
+
+footer {
+
+    background-color:#6A93D4;
+    padding:2px;
+
+}
+
+footer p {
+
+    background-color:#447BD4;
+
+}
+
+
+div p {
+
+    text-align:center;
+
+}
+
+
+
+
